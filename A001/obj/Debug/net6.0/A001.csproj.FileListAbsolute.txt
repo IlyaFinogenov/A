@@ -1,0 +1,15 @@
+D:\Рабочий стол\A\A001\bin\Debug\net6.0\A001.exe
+D:\Рабочий стол\A\A001\bin\Debug\net6.0\A001.deps.json
+D:\Рабочий стол\A\A001\bin\Debug\net6.0\A001.runtimeconfig.json
+D:\Рабочий стол\A\A001\bin\Debug\net6.0\A001.dll
+D:\Рабочий стол\A\A001\bin\Debug\net6.0\A001.pdb
+D:\Рабочий стол\A\A001\obj\Debug\net6.0\A001.csproj.AssemblyReference.cache
+D:\Рабочий стол\A\A001\obj\Debug\net6.0\A001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\A\A001\obj\Debug\net6.0\A001.AssemblyInfoInputs.cache
+D:\Рабочий стол\A\A001\obj\Debug\net6.0\A001.AssemblyInfo.cs
+D:\Рабочий стол\A\A001\obj\Debug\net6.0\A001.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\A\A001\obj\Debug\net6.0\A001.dll
+D:\Рабочий стол\A\A001\obj\Debug\net6.0\refint\A001.dll
+D:\Рабочий стол\A\A001\obj\Debug\net6.0\A001.pdb
+D:\Рабочий стол\A\A001\obj\Debug\net6.0\A001.genruntimeconfig.cache
+D:\Рабочий стол\A\A001\obj\Debug\net6.0\ref\A001.dll
